@@ -12,4 +12,4 @@ This is a simple Bash script game where you guess a number between a range based
     cd guess-the-number-game
 3. Run the script:
    ```bash
-    bash game.sh
+    bash updated_game.sh
